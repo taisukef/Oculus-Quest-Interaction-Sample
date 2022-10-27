@@ -11,7 +11,7 @@ https://github.com/TakashiYoshinaga/Oculus-Quest-Input-Sample
 
 ## Experiences
 <b>Experienc on your device</b><br>
-https://quest-demo.glitch.me
+https://taisukef.github.io/ar-test/
 
 <br>
 <b>Video</b><br>
